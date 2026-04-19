@@ -35,7 +35,7 @@ I am an App Development student at Cape Peninsula University of Technology with 
 
 * **Pulse Up (University Clinic System)**
 
-<img src="Project IMGS\PulseImage.jpeg" width="200">
+<img src="Media\PulseImage.jpeg" width="200">
 
 ### Whats Pulse-up:
 
@@ -47,7 +47,7 @@ I am an App Development student at Cape Peninsula University of Technology with 
 
 * **Bright-future NGO Community Website**
 
-<img src="Project IMGS/logo.png" width="200">
+<img src="Media\logo.png" width="200">
 
   ### Whats *Bright-future NGO* Website:
 
@@ -59,7 +59,7 @@ A website aimed at promoting hygiene awareness and encouraging volunteerism with
 
 * **Module Tracker**
 
-<img src="Project IMGS/Moduletracker.png" width="200">
+<img src="Media\Moduletracker.png" width="200">
   
   An application that helps students calculate and track their academic marks across modules. This application is focused on assisting students to calculate their semester marks, for each module, as some students strugle with identifying the right fomular for calculating their assesments marks, thats were the app comes in
 
@@ -103,7 +103,7 @@ I gained a better understanding of GitHub workflows and commands. I also became 
 
 ## 🎥 Mock Interview Video
 
-> 🔗 [![Click photo to watch video](https://i9.ytimg.com/vi_webp/Eldk0j9GhsY/mq3.webp?sqp=CJTZkM8G-oaymwEmCMACELQB8quKqQMa8AEB-AH-CYAC0AWKAgwIABABGGUgZShlMA8=&rs=AOn4CLBNP1lrI3CDfw9PDxmPF-rnu8g9xw)](https://youtu.be/Eldk0j9GhsY)
+> 🔗 [![Click photo to watch video](Media\1-30d4d103.png)](https://youtu.be/Eldk0j9GhsY)
 
 
 ---
