@@ -55,7 +55,7 @@ A website aimed at promoting hygiene awareness and encouraging volunteerism with
 
   **Development tech Stacks:** The *NGO* was programmed behind the use of *HTML* for the structure, *CSS* for the design of the content *with bootstrap framework*, and *Java Script(with Node.JS Frame work)* for the functionality.
 
- 
+ [This is the project URL to GitHub](https://github.com/Matinisa/Bright-future-NGO)
 
 * **Module Tracker**
 
@@ -64,6 +64,9 @@ A website aimed at promoting hygiene awareness and encouraging volunteerism with
   An application that helps students calculate and track their academic marks across modules. This application is focused on assisting students to calculate their semester marks, for each module, as some students strugle with identifying the right fomular for calculating their assesments marks, thats were the app comes in
 
   **Developments tech-stacks:** This include *HTML* and *CSS*(with *BootStrap*) frame-work for the structure and content design of the system. As for the functionality, we used *Java*, for functional enhancements purposes, with the use of *Springboot* frame work.
+
+
+[This is the project URL to GitHub](https://github.com/Matinisa/Module-Tracker)
 
 ---
 
